@@ -1,0 +1,14 @@
+F:\VS Solutions\LearnComputer\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\GenericMethodReplacer.exe.config
+F:\VS Solutions\LearnComputer\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\GenericMethodReplacer.exe
+F:\VS Solutions\LearnComputer\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\GenericMethodReplacer.pdb
+F:\VS Solutions\LearnComputer\GenericMethodReplacer\GenericMethodReplacer\obj\Debug\GenericMethodReplacer.csprojResolveAssemblyReference.cache
+F:\VS Solutions\LearnComputer\GenericMethodReplacer\GenericMethodReplacer\obj\Debug\GenericMethodReplacer.exe
+F:\VS Solutions\LearnComputer\GenericMethodReplacer\GenericMethodReplacer\obj\Debug\GenericMethodReplacer.pdb
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\GenericMethodReplacer.exe.config
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\obj\Debug\GenericMethodReplacer.exe
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\obj\Debug\GenericMethodReplacer.pdb
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\obj\Debug\GenericMethodReplacer.csprojResolveAssemblyReference.cache
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\GenericMethodReplacer.exe
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\GenericMethodReplacer.pdb
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\DelegateDecompiler.dll
+F:\VS Solutions\GenericMethodReplacer\GenericMethodReplacer\bin\Debug\Mono.Reflection.dll
